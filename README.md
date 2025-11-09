@@ -1,5 +1,6 @@
 # 🧠 Enterprise VLAN Network (Manual Configuration and Automation configuration with Ansible)
 
+## Manual Configuration:
 ## 🎯 Objective
 Design and implement a small enterprise VLAN network using Cisco devices in GNS3.
 Demonstrates VLAN segmentation, inter-VLAN routing, DHCP, and trunk configuration.
