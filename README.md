@@ -24,7 +24,7 @@ Demonstrates VLAN segmentation, inter-VLAN routing, DHCP, and trunk configuratio
 ---
 
 ## 📊 Topology
-![Network Diagram](diagram/enterprise_vlan_diagram.png)
+![Network Diagram](diagram/enterprise_vlan_diagramm.png)
 
 ---
 
